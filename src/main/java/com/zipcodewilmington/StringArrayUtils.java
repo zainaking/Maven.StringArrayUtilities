@@ -14,7 +14,6 @@ public class StringArrayUtils {
     public static String getFirstElement(String[] array) {
 
         return array[0];
-
     }
 
 
